@@ -1,0 +1,43 @@
+
+
+.st-font {
+    font-family: 'Satisfy', cursive;
+        }
+
+html,
+body{
+    height: 100%
+
+}
+
+.container-fluid {
+    min-height :100%
+}
+
+/* services icon color*/
+.i-color{
+    color: chartreuse;
+
+}
+
+/* service substitle color*/
+.ss-color{
+    color: rgb(187, 186, 178);
+}
+
+a.nav-link{
+    color: rgb(153, 148, 148);
+}
+
+a.nav-link:hover{
+    color:rgb(12, 8, 8);
+    background-color: #d7f143;
+}
+
+a.nav-link.active{
+    color:rgb(12, 8, 8);
+    background-color: #caeb0f;
+    font-weight: bold;
+
+}
+
